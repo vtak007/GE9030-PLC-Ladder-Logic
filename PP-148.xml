@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project><fileHeader companyName="Emerson" productName="PAC Machine Edition" productVersion="9.80 SIM 9" creationDateTime="2026-02-17 12:51:54" savedBy="9.80 SIM 9" lastModifiedBy="massnerc"/><protected>0</protected><targets><target name="Pipepro_Screen"><type>Windows CE</type><model>QP View 12" TFT Loaded (IC754Vxx12Cxx)</model></target><target name="PP3V80"><type>Controller</type><model>Series 90-30 PLC</model></target></targets></project>
